@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+        "name"              "Simple DriveBy"
+        "version"           "1"
+        "author_name"       "Suddenshotty"
+        "author_email"      ""
+        "info"              ""
+        "override"          "0"
+}
